@@ -1,0 +1,34 @@
+## blueprint title
+title: Home
+
+## page settings
+pages: false
+icon: drivers-license-o
+options:
+  status: false
+  
+## page fields
+fields:
+  title:
+    label: Title
+    type:  text
+    
+  text:
+    label: About
+    type:  markdown
+    
+  expertise:
+    label: Expertise
+    type: tags
+    
+  externals:
+    label: External Links
+    type: structure
+    fields:
+      text2:
+        label: Title
+        type: text
+      link:
+        label: Link
+        type:  text
+        icon:  link

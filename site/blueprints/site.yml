@@ -1,0 +1,47 @@
+## blueprint title
+title: Site
+pages:
+  template:
+    - universities
+    - jobs
+    - honors
+    - skills
+    - projects
+    - interests
+    - certifications
+
+## page fields
+fields:
+  title:
+    label: Site Title
+    type:  text
+    width: 1/2
+    
+  author:
+    label: Site Author
+    type: text
+    width: 1/2
+    
+  headline:
+    label: Site Headline
+    type: text
+    help: Used for the browser title bar
+    
+  text:
+    label: Site Description
+    type: textarea
+    buttons: false
+    
+  copyright:
+    label: Footer
+    type: textarea
+    
+  googleVerify:
+    label: Google Site Verification
+    type:  text
+    width: 1/2
+  googleAnalytics:
+    label: Google Analytics Tracking ID
+    type:  text
+    width: 1/2
+

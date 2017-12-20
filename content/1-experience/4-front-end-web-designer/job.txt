@@ -1,0 +1,23 @@
+Title: Front-end Web Developer
+
+----
+
+Employer: Murphey Mediation
+
+----
+
+Date: April 2011 - July 2014
+
+----
+
+Description: 
+
+* Worked with business from concept to launch
+* Designed mock-up of website in Photoshop
+* Coded approved design, originally, as a static HTML and CSS in Dreamweaver
+* Re-designed entirely new website to be responsive and user-friendly in ProcessWire CMS
+* (link: http://www.murpheymediation.com text: Visit website target:new)
+
+----
+
+Time-period: April 2011 - July 2014

@@ -1,0 +1,20 @@
+## blueprint title
+title: Education
+
+## page settings
+pages:
+  template: university
+files: false
+preview: parent
+icon: university
+options:
+  template: false
+  delete: false
+  status: true
+  url: false
+  
+## page fields
+fields:
+  title:
+    label: Title
+    type: text

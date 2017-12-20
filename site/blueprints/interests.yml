@@ -1,0 +1,23 @@
+## blueprint title
+title: Interests
+
+## page settings
+pages: false
+files: false
+icon: heart
+options:
+  url: false
+  delete: false
+  status: true
+  template: false
+preview: parent
+
+## page fields
+fields:
+  title:
+    label: Title
+    type:  text
+    
+  text:
+    label: Text
+    type:  textarea

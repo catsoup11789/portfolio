@@ -1,0 +1,44 @@
+## blueprint title
+title: Certification
+
+## page settings
+pages: false
+files: false
+preview: parent
+icon: certificate
+options:
+  template: false
+  
+## page fields
+fields:
+  title:
+    label: Certification Name
+    type:  text
+  authority:
+    label: Certification Authority
+    type: text
+    width: 2/4
+  license:
+    label: License No.
+    type: text
+    width: 1/4
+  acquired:
+    label: Date Acquired
+    type: date
+    format: MM/DD/YYYY
+    width: 1/4
+  website:
+    label: Certification URL
+    type: url
+  expire:
+    label: Does this certificate expire?
+    type: checkbox
+    text: "Yes"
+    width: 1/3
+  expired:
+    label: Date of Expiration
+    type: date
+    format: MM/DD/YYYY
+    width: 2/3
+    default: today
+      

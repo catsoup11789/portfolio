@@ -1,0 +1,26 @@
+## blueprint title
+title: Skill
+
+## page settings
+pages: false
+files: false
+preview: parent
+icon: wrench
+options:
+  template: false
+
+## page fields
+fields:
+  title:
+    label: Skill
+    type: text
+  use:
+    label: Use
+    type: text
+  competence:
+    label: Competence level
+    type: select
+    options:
+      Basic: Basic
+      Intermediate: Intermediate
+      Strong: Strong

@@ -1,0 +1,20 @@
+## blueprint title
+title: Projects
+
+## page settings
+pages:
+  template: project
+files: false
+preview: parent
+icon: cubes
+options:
+  template: false
+  url: false
+  status: true
+  delete: false
+
+## page fields
+fields:
+  title:
+    label: Title
+    type:  text

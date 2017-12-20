@@ -1,0 +1,41 @@
+## blueprint title
+title: University
+
+## page settings
+pages: false
+files: false
+preview: parent
+icon: university
+options:
+  template: false
+  
+## page fields
+fields:
+  title:
+    label: Name of University
+    type:  text
+    width: 2/3
+  attended:
+    label: Dates Attended
+    type: text
+    help: Or expected graduation year
+    width: 1/3
+  degree:
+    label: Degree
+    type: text
+    width: 1/2
+  fieldOfStudy:
+    label: Field of Study
+    type: text
+    width: 1/2
+  honors:
+    label: Honors & Awards
+    type: text
+  activities:
+    label: Activities & Societies
+    type: text
+    help: "Examples: Alpha Phi Omega, Chamber Chorale, Debate Team"
+  description:
+    label: Description
+    type: markdown
+    help: "Example: Graduated with Honors in English, UC Davis. Minored in Anthropology. Overseas Studies Program: semester at Oxford, focus on English literature. Received National Merit Scholarship, 2004, and Washington Post Scholarship, 2005."

@@ -1,0 +1,9 @@
+Title: jQuery / JS
+
+----
+
+Use: Front-end Web Development
+
+----
+
+Competence: Intermediate

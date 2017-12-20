@@ -1,0 +1,23 @@
+## blueprint title
+title: Default
+
+## page settings
+pages: false
+files: false
+icon: heart
+options:
+  url: false
+  delete: false
+  status: false
+preview: parent
+
+## page fields
+fields:
+  title:
+    label: Title
+    type:  text
+    readonly: true
+    
+  text:
+    label: Text
+    type:  textarea

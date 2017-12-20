@@ -1,0 +1,21 @@
+## blueprint title
+title: Honors & Awards
+
+## page settings
+pages:
+  template: honor
+files: false
+preview: parent
+icon: trophy
+options:
+  template: false
+  delete: false
+  url: false
+  status: true
+  
+## page fields
+fields:
+  title:
+    label: Title
+    type:  text
+      

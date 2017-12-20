@@ -1,0 +1,29 @@
+## blueprint title
+title: Job
+
+## page settings
+pages: false
+files: false
+preview: parent
+icon: briefcase
+options:
+  template: false
+  
+## page fields
+fields:
+  title:
+    label: Title
+    type: text
+  employer:
+    label: Company Name
+    type: text
+    width: 2/3
+  time_period:
+    label: Time Period
+    type: text
+    width: 1/3
+  description:
+    label: Description
+    type: markdown
+    help: Example - Generated new deals for a real estate development company that focuses on multi-family residential projects, including real-estate market analysis.
+      

@@ -1,0 +1,25 @@
+Title: DFP Premium Fundamentals for Administrators
+
+----
+
+Authority: Google
+
+----
+
+License: 10043
+
+----
+
+Website: http://www.google.com/
+
+----
+
+Acquired: 2014-07-01
+
+----
+
+Expired: 
+
+----
+
+Expire: false

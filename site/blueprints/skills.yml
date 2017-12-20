@@ -1,0 +1,21 @@
+## blueprint title
+title: Skills
+
+## page settings
+pages:
+  template: skill
+files: false
+preview: parent
+icon: wrench
+options:
+  template: false
+  delete: false
+  url: false
+  status: true
+
+## page fields
+fields:
+  title:
+    label: Title
+    type:  text
+      

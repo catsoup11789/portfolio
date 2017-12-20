@@ -1,0 +1,15 @@
+## blueprint title
+title: Error
+
+## page settings
+pages: false
+files: false
+icon: exclamation-circle
+hide: true
+
+## page fields
+fields:
+  title:
+    label: Title
+    type:  text
+    readonly: true

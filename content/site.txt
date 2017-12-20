@@ -1,0 +1,53 @@
+Title: Resume
+
+----
+
+Author: Kirstien Kroeger
+
+----
+
+Text: An online resume for Kirstien Kroeger
+
+----
+
+Email: kirstienkroeger@icloud.com
+
+----
+
+Facebook: 
+
+----
+
+Twitter: 
+
+----
+
+Behance: 
+
+----
+
+Dribbble: 
+
+----
+
+Instagram: 
+
+----
+
+Flickr: 
+
+----
+
+Headline: Kirstien Kroeger - Full-stack Integrator + Graphic Designer
+
+----
+
+Copyright: (icon:code) with (icon:heart) and (link: http://www.getkirby.com text: Kirby popup: yes)
+
+----
+
+Googleverify: 
+
+----
+
+Googleanalytics: 

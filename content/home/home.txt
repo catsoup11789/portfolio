@@ -1,0 +1,24 @@
+Title: Resume
+
+----
+
+Text: 
+
+(image: kirstien-kroeger.jpg width: 100%)
+I have over 10 years experience designing, developing and full-stack integration of websites.  My graphic design background gives me the understanding of the importance of strong visual communication, allowing me to create functional website designs that are both purposeful and clean. When time permits, (email: kirstienkroeger@icloud.com text: I accept freelance web design and development work).
+
+----
+
+Expertise: Kirby Development,Full-stack Integration,Website Management
+
+----
+
+Externals: 
+
+- 
+  text2: Email
+  link: mailto:kirstienkroeger@icloud.com
+- 
+  text2: LinkedIn
+  link: >
+    https://www.linkedin.com/in/kirstienkroeger
